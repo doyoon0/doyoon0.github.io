@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "Sprout Coding"
 title_separator          : "-"
-subtitle                 : "Doyoon, the Noob Developer" # site tagline that appears below site title in masthead
+subtitle                 : "version 1.0" # site tagline that appears below site title in masthead
 name                     : ""
 description              : "An amazing website."
 url                      : "https://doyoon0.github.io"
